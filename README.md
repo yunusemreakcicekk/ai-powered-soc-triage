@@ -10,6 +10,12 @@ An AI-assisted Security Operations Center (SOC) automation platform that capture
 
 ---
 
+## 🎥 Demo Video
+
+Watch the full project demonstration on LinkedIn.
+
+▶ [View Demo on LinkedIn](https://www.linkedin.com/posts/yunusemreakcicek_cybersecurity-soc-blueteam-ugcPost-7464622033012842496-O7W2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2cyYcBX6Fm-PhVdoQ94EZP5CYmDkbnJmI)
+
 ## Project Overview
 
 This project automates the early stages of SOC operations.
