@@ -1,1 +1,0 @@
-Sample alerts and responses.
